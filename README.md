@@ -1,1 +1,2 @@
 # Insights-into-Wine-Quality-through-Exploratory-Data-Analysis
+This repository provides a comprehensive exploratory data analysis (EDA) of the Red Wine Quality dataset, aiming to uncover key factors that influence wine quality. Utilizing Python's powerful data analysis and visualization libraries (pandas, NumPy, matplotlib, and seaborn), this project delves into the relationships between various physicochemical properties and the overall quality rating of red wine.
